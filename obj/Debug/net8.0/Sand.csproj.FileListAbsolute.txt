@@ -1,0 +1,14 @@
+D:\VisualStudioCodeProjects\Projects\Sand\bin\Debug\net8.0\Sand.exe
+D:\VisualStudioCodeProjects\Projects\Sand\bin\Debug\net8.0\Sand.deps.json
+D:\VisualStudioCodeProjects\Projects\Sand\bin\Debug\net8.0\Sand.runtimeconfig.json
+D:\VisualStudioCodeProjects\Projects\Sand\bin\Debug\net8.0\Sand.dll
+D:\VisualStudioCodeProjects\Projects\Sand\bin\Debug\net8.0\Sand.pdb
+D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\Sand.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\Sand.AssemblyInfoInputs.cache
+D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\Sand.AssemblyInfo.cs
+D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\Sand.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\Sand.dll
+D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\refint\Sand.dll
+D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\Sand.pdb
+D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\Sand.genruntimeconfig.cache
+D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\ref\Sand.dll
