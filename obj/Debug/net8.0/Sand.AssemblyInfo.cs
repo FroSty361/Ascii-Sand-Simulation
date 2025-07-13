@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sand")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fa673c47d3500dc81e6f3fc7e7267d43602f13c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sand")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sand")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

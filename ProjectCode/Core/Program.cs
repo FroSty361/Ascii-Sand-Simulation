@@ -4,7 +4,7 @@ namespace SandSimulation.Core;
 
 class Program
 {
-  static void Main(string[] args)
+  static void Main(string[] args) 
   {
     Manager manager = new Manager();
 

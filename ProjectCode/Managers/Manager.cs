@@ -51,7 +51,7 @@ public class Manager
 
       builder.AppendLine("</pre></body></html>");
 
-      File.WriteAllText(@"D:\VisualStudioCodeProjects\Projects\Sand\Output\output.html", builder.ToString());
+      File.WriteAllText(@"D:\VisualStudioCodeProjects\Projects\Sand\docs\index.html", builder.ToString());
 
       sandEvent?.Invoke();
 

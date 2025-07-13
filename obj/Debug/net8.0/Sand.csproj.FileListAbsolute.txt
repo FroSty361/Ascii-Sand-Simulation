@@ -12,3 +12,4 @@ D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\refint\Sand.dll
 D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\Sand.pdb
 D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\Sand.genruntimeconfig.cache
 D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\ref\Sand.dll
+D:\VisualStudioCodeProjects\Projects\Sand\obj\Debug\net8.0\Sand.sourcelink.json
